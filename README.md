@@ -1,1 +1,1 @@
-self-taught tavascript
+self-taught javascript
