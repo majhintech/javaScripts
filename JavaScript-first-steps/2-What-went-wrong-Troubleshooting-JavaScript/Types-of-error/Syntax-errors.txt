@@ -1,0 +1,1 @@
+These are spelling errors in your code that actually cause the program not to run at all, or stop working part way through
